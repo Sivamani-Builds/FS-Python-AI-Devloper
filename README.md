@@ -20,6 +20,6 @@ I build websites that are powered by Artificial Intelligence.I specialize in bui
 ---
 
 ## 📫 Contact Me
-- **💼LinkedIn:** www.linkedin.com/in/ch-sivamani-python-dev
+- **💼LinkedIn:** www.linkedin.com/in/Sivamani-Python-AI-Dev
 - **📧Email:** sivamanichilaka9@gmail.com
 - **📍Location:** Hyderabad, India (Open to Remote)
