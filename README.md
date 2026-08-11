@@ -1,6 +1,6 @@
 # Hi,👋 I'm Sivamani
 
-### 🚀 Full-Stack & AI Developer
+### 🚀 FS Python & AI Developer
 I build websites that are powered by Artificial Intelligence.I specialize in building scalable web applications integrated with autonomous AI agents and Large Language Models.
 
 ---
@@ -9,7 +9,7 @@ I build websites that are powered by Artificial Intelligence.I specialize in bui
 - **Web:** HTML, CSS, JavaScript, React, Node.js
 - **AI:** Python, OpenAI API, LangChain, LLMs
 - **Databases:** MongoDB, Vector Databases
-- **DevOps/Tools:**	Git, GitHub, Postman
+- **DevOps/Tools:**	Git, GitHub,& VS Code
 
 ## 📂 Featured Projects
 1. **AI Chat App:** A website where users can talk to an AI agent.
